@@ -24,5 +24,6 @@ return [
     'send_link' => 'Send Password Reset Link',
     'reset' => 'Reset Password',
     'confirm' => 'Confirm Password',
-
+    'dash' => 'Dashboard',
+    'logged' => 'You are logged in!',
 ];
